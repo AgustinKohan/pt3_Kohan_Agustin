@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xslt"?>
+<recetas>
+    <receta>
+        <nombre>Calabacines rellenos de pollo y arroz</nombre>
+        <cantidad>Para 4 personas</cantidad>
+        <ingredientes>
+            <ingrediente>
+                <nombre_ingrediente>Arroz:</nombre_ingrediente>
+                <cantidad>150g</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Calabacines pequeños:</nombre_ingrediente>
+                <cantidad>4</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Pimiento rojo:</nombre_ingrediente>
+                <cantidad>80g</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Pechuga de pollo:</nombre_ingrediente>
+                <cantidad>150g</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Queso parmesano para rallar:</nombre_ingrediente>
+                <cantidad>A gusto del cocinero</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <dificultad>Fácil</dificultad>
+            <tiempo>45 min</tiempo>
+        </preparacion>
+            <paso>Comenzamos cociendo los calabacines en abundante agua durante 7-8 minutos. Queremos que queden duritos. Retiramos los calabacines del agua y los dejamos enfriar.</paso>
+        <instrucciones>
+            <paso>Cuando los calabacines estén templados, los cortamos longitudinalmente y retiramos su pulpa de forma que nos queden como unas barquitas. Reservamos la pulpa y el calabacín.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Cocemos el arroz en abundante cantidad de agua con sal. Cuando el agua empiece a hervir, salamos e incorporamos el arroz. Siguiendo las indicaciones del fabricante, cocemos el arroz durante 18 minutos. Pasado este tiempo lo escurrimos y reservamos.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Pelamos la cebolla y la cortamos en daditos pequeños. Hacemos lo mismo con el diente de ajo, lo pelamos y troceamos. Lavamos el pimiento rojo y lo cortamos en daditos. Retiramos restos de grasa que pueda tener el pollo y lo cortamos en daditos pequeños.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>En una cazuela calentamos un chorrito de aceite de oliva. Añadimos la cebolla, el ajo y el pimiento. Agregamos también una pizca de tomillo y orégano. Sofreímos la verduras hasta que queden blanditas. Añadimos el pollo troceado y lo cocinamos hasta que esté comenzando a dorarse. Salamos.</paso>
+        </instrucciones>
+        <instrucciones>
+             <paso>Agregamos la pulpa de los calabacines a la cazuela y cocinamos con el resto del sofrito durante 3 -4 minutos. Incorporamos el arroz, mezclamos bien y retiramos del fuego.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>recalentamos el horno a 180° C en posición gratinado.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Untamos una fuente grande de horno con un poco de mantequilla y ponemos encima los calabacines. Los rellenamos las berenjenas con mezcla de arroz y pollo que tenemos reservada y ponemos por encima un poco de queso Parmesano o un queso que os guste para gratinar.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Introducimos los calabacines en el horno y las dejamos, a 180° C en la bandeja central con calor arriba y abajo durante 15 minutos. Los dejamos hasta que el queso adquiera un tono dorado parecido al caramelo. Servimos los calabacines rellenos directamente del horno a la mesa, bien calentitos.</paso>
+        </instrucciones>
+    </receta>
+</recetas>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xslt"?>
+
+<recetas>
+    <receta>
+        <nombre>Fideos de arroz con salteado de tofu y pimiento</nombre>
+        <cantidad>Para 2 personas</cantidad>
+        <ingredientes>
+            <ingrediente>
+                <nombre_ingrediente>Fideos de arroz:</nombre_ingrediente>
+                <cantidad>120g</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Tofu firme:</nombre_ingrediente>
+                <cantidad>200g</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Pimiento rojo:</nombre_ingrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Jengibre fresco:</nombre_ingrediente>
+                <cantidad>1 trozo</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Salsa de soja:</nombre_ingrediente>
+                <cantidad>15ml</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Curry molido:</nombre_ingrediente>
+                <cantidad>1/2 cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Ajo granulado:</nombre_ingrediente>
+                <cantidad>1/4 cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Cúrcuma molida:</nombre_ingrediente>
+                <cantidad>1 cucharadita</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Lima:</nombre_ingrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <dificultad>Fácil</dificultad>
+            <tiempo>35 min</tiempo>
+        </preparacion>
+            <paso>Desechar el líquido del tofu y escurrir bien</paso>
+        <instrucciones>
+            <paso>Envolver en varias capas de papel de cocina y dejar como mínimo 15 minutos con un peso encima</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Cortar en cubos del tamaño de un bocado</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Calentar un poco de aceite en una sartén y dorar el tofu por todos lados, finalmente retirar</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Cocer los fideos de arroz en agua hirviendo con un poco de sal durante unos tres minutos, siguiendo las instrucciones del paquete</paso>
+        </instrucciones>
+        <instrucciones>
+             <paso>Escurrir y enjuagar con agua fría, soltándolos un poco con un tenedor y reservar</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Rallar o picar fino el jengibre</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Cortar el pimiento en tiras finas</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Saltear en la misma sartén a fuego alto ambos ingredientes durante dos minutos</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Salpimentar, agregar la salsa de soja y las especias</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Rehogar 5 minutos</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Devolver el tofu, dar unas vueltas e incorporar los fideos</paso>
+        </instrucciones>
+        <instrucciones>
+             <paso>Mezclar todo bien hasta que se integren</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Servir con perejil picado</paso>
+        </instrucciones>
+    </receta>
+</recetas>

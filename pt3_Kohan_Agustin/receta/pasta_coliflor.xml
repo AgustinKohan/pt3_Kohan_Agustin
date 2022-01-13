@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xslt"?>
+<recetas>
+    <receta>
+        <nombre>Pasta con salsa de colflor</nombre>
+        <cantidad>Para 4 personas</cantidad>
+        <ingredientes>
+            <ingrediente>
+                <nombre_ingrediente>Coliflor:</nombre_ingrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Cebolleta:</nombre_ingrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Leche:</nombre_ingrediente>
+                <cantidad>200ml</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Sal:</nombre_ingrediente>
+                <cantidad>A gusto del cocinero</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <dificultad>Dificultad media</dificultad>
+            <tiempo>10 min</tiempo>
+        </preparacion>
+            <paso>Lavar la coliflor y separar las flores en ramilletes</paso>
+        <instrucciones>
+            <paso>Poner abundante agua a calentar y añadir la verdura cuando esté hirviendo</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Cocer unos 10-15 minutos, hasta que esté tierna</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Retirar del fuego sin vaciar la olla</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Calentar un poco de aceite en una sartén y cocinar la cebolleta y los dientes de ajo picados unos minutos, a fuego suave, hasta que se transparenten</paso>
+        </instrucciones>
+        <instrucciones>
+             <paso>Triturar la mitad de las flores de coliflor usando una batidora de brazo, de vaso o una picadora</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Añadir la cebolleta y ajo pochados y un poco de leche y triturar</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Echar el resto de la coliflor, triturar, y continuar añadiendo leche y agua de cocción hasta conseguir la textura deseada</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Cocer la pasta según instrucciones del fabricante, al dente. Escurrir. Echar la salsa en una sartén amplia con un poco de aceite y calentar</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Añadir el queso rallado al gusto y salpimentar</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Incorporar la pasta y mezclar bien, calentando todo unos minutos</paso>
+        </instrucciones>
+    </receta>
+</recetas>

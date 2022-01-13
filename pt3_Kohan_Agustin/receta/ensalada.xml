@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xslt"?>
+
+<recetas>
+    <receta>
+        <nombre>Calabacines rellenos de pollo y arroz</nombre>
+        <cantidad>Para 4 personas</cantidad>
+        <ingredientes>
+            <ingrediente>
+                <nombre_ingrediente>Patatas:</nombre_ingrediente>
+                <cantidad>1kg</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Huevos:</nombre_ingrediente>
+                <cantidad>4</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Zanahoria:</nombre_ingrediente>
+                <cantidad>1</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Atún:</nombre_ingrediente>
+                <cantidad>2 latas</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Guisantes congelados:</nombre_ingrediente>
+                <cantidad>200g</cantidad>
+            </ingrediente>
+            <ingrediente>
+                <nombre_ingrediente>Mayonesa:</nombre_ingrediente>
+                <cantidad>600g</cantidad>
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <dificultad>Dificil</dificultad>
+            <tiempo>45 min</tiempo>
+        </preparacion>
+            <paso>En una cazuela ponemos a hervir agua; cuando haya hervido incorporamos los huevos y cocemos durante 10 minutos. Retiramos del agua, quitamos las cáscaras y reservamos.</paso>
+        <instrucciones>
+            <paso>Al mismo tiempo en otra cazuela ponemos a hervir agua con dos cucharaditas de sal; añadimos las patatas enteras y con cáscara, junto con la zanahoria, entera y pelada. Dejamos cocer durante unos 30 minutos.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Cuando hayan pasado unos 20 minutos, comprobamos si la patata está cocida pinchando con un tenedor.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Retiramos de la cazuela las patatas y la zanahoria, dejamos que templen, pelamos y cortamos en dados.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>En una cazuela calentamos un chorrito de aceite de oliva. Añadimos la cebolla, el ajo y el pimiento. Agregamos también una pizca de tomillo y orégano. Sofreímos la verduras hasta que queden blanditas. Añadimos el pollo troceado y lo cocinamos hasta que esté comenzando a dorarse. Salamos.</paso>
+        </instrucciones>
+        <instrucciones>
+             <paso>En otra cazuela, añadimos una cucharadita de aceite de oliva virgen extra y cocinamos los guisantes con un poquito de sal un par de minutos hasta que están tiernos.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>En una fuente grande añadimos las patatas y las zanahorias cortadas en dados. A continuación añadimos los huevos. Tradicionalmente se añade solo la clara cortada a trocitos, y la yema se puede usar rallada para decorar.</paso>
+        </instrucciones>
+        <instrucciones>
+            <paso>Incorporamos los guisantes, el atún bien escurrido y la mayonesa.</paso>
+        </instrucciones>
+    </receta>
+</recetas>
